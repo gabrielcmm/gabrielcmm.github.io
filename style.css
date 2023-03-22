@@ -1,0 +1,33 @@
+body{
+    background-color: #E3DFFF;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.standart-picture-frame{
+    border-radius: 100%;
+}
+
+.charcoal{
+    color: #364958;
+}
+
+strong{
+    color: #3B6064;
+}
+
+#nav{
+    list-style: none;
+}
+
+.button-style{
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-color: #9CAF88;
+    color: #3B6064;
+    text-decoration: none;
+}
+
+.button-distance{
+    line-height: 45px;
+    
+}
