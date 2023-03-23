@@ -1,4 +1,5 @@
 body{
+    padding-top: 100px;
     background-color: #E3DFFF;
     font-family: 'Noto Sans Mono', monospace;
 }
@@ -29,5 +30,21 @@ strong{
 
 .button-distance{
     line-height: 45px;
+    
+}
+
+.nav{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+    height: 119px;
+    background-color: #E3DFFF;
+    
+}
+
+.button-style:hover{
+    background-color: #839a6a;
+    color: #4e7f84;
     
 }
